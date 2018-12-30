@@ -1,0 +1,62 @@
+
+/* style <div> elements */
+div {
+    color: blue;
+    text-align: center;
+    line-height: 0.8;
+    font-family: "Comic Sans MS";
+  }
+
+  /* style <h1> elements */
+  h1 {
+    color: red;
+    text-align: center;
+    line-height: 0.8;
+  }
+
+  /* style <textarea> elements */
+  textarea {
+    color: #00ff00;
+    text-align: center;
+    line-height: 0.8;
+  }
+
+  /* style <td> elements */
+  td {
+    color: palevioletred;
+    text-align: center;
+    line-height: 0.8;
+  }
+
+  /* style <th> elements */
+  th {
+    color: cyan;
+    text-align: center;
+    line-height: 0.8;
+    font-family: "Open Sans";
+  }
+  
+  /* style <label> elements */
+  label {
+      color: crimson;
+      background-color: black;
+  }
+
+  /* style elements with example-class class*/
+  .example-class {
+      font-family: "Comic Sans MS";
+      color: #00ff00;
+      background: none;
+  }
+
+  /* style <input> elements */
+  input {
+      background-color: black;
+      color: #00ff00;
+  }
+
+  /* style <h2> elements */
+  h2 {
+      color: royalblue;
+      font-family: "Arial";
+  }
