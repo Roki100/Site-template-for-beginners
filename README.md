@@ -8,3 +8,5 @@ HTML+CSS Template for beginning people, not made to be beautiful, made to help c
 * Boring day
 * I want help some beginners
 * So many template users (even me lol)
+
+~~*Made for fun so u can make memes from it*~~
